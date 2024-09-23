@@ -1,4 +1,4 @@
-# Classifying LLM-Written Essays vs. Human-Written Essays
+# Finetuning LLMs to classify LLM-Written EHuman-Written Essays
 
 ## Project Overview
 
