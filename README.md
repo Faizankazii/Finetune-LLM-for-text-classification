@@ -22,7 +22,7 @@ The fine-tuning of the LLM is done using a pre-trained model from Hugging Face. 
 For users with access to multiple GPUs, the fine-tuning process can be accelerated using the `acc_script.py` script. This script uses the Hugging Face `Accelerate` library to distribute the training process efficiently across available GPUs.
 
 ## Requirements
-- Python 3.x
+- Python 3.10.9
 - Hugging Face Transformers
 - Accelerate (for multi-GPU usage)
 - Other dependencies listed in `requirements.txt`
